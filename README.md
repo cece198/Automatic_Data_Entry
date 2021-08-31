@@ -1,0 +1,3 @@
+# Automatic_Data_Entry
+This repository contains my Google Sheets/Microsoft Excel code that increases efficiency for any Data Entry task. The user types in a specific key, and then associated data gets automatically inserted into the appropriate columns.
+VLOOKUP is a Google Sheets and Microsoft Excel function that retrieves information based on a set of parameters. The functionality can be explained like this (in pseudocode)... =VLOOKUP(PlantPollination Plant KeyA2, range from PlantReference KeyA2 to MethodC10, PlantReference number of columns in range, FALSE) . This pseudocode logic can be applied to across multiple sheets for an array of information (as shown with the inclusion of the LocationReference sheet).
